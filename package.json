@@ -1,0 +1,15 @@
+{
+  "name": "jeasx-react-starter",
+  "type": "module",
+  "scripts": {
+    "start": "jeasx start",
+    "build": "jeasx build",
+    "dev": "jeasx dev"
+  },
+  "dependencies": {
+    "@visx/visx": "3.12.0",
+    "jeasx": "1.4.1",
+    "react": "18.3.0",
+    "react-dom": "18.3.0"
+  }
+}
