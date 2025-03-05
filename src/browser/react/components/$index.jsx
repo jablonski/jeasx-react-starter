@@ -1,3 +1,3 @@
-import Example from "./Example";
+import Lottery from "./Lottery";
 
-export default { Example };
+export default { Lottery };
