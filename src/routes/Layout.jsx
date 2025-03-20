@@ -4,7 +4,7 @@
 export default function Layout({
   title = "",
   description = "",
-  children = [],
+  children,
   css = "/index.css",
   script = undefined,
 }) {
