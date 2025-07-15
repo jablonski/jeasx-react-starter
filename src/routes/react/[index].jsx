@@ -1,7 +1,7 @@
 import Layout from "../Layout";
 import React from "./React";
 
-export default function ReactExample() {
+export default function () {
   return (
     <Layout title="React example" script="/react/index.js">
       <div class="App">

@@ -1,6 +1,6 @@
 /**
  * @param {import("./types").RouteProps} props
  */
-export default function Frontpage({ request, reply }) {
+export default function ({ request, reply }) {
   return reply.redirect("/react");
 }
